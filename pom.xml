@@ -31,7 +31,7 @@
     </properties>
 
     <modules>
-        <module>Portfolio</module>
+        <module>portfolio</module>
     </modules>
 
 </project>
