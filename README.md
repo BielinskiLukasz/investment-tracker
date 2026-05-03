@@ -1,7 +1,11 @@
 # Investment Tracker — Backend
 
 ![Status](https://img.shields.io/badge/status-concept-lightgrey)
-![Version](https://img.shields.io/badge/version-0.0.0-blue)
+![Version](https://img.shields.io/badge/version-0.0.0--CONCEPT-lightgrey)
+![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-latest-success?logo=springboot)
+![H2](https://img.shields.io/badge/Database-H2-blue?logo=h2)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A Java/Spring Boot backend application for managing investment activity and financial history.  
 It provides a clean REST API for recording transactions, tracking portfolio performance, and generating financial reports.
