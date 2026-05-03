@@ -1,5 +1,7 @@
 # InvestmentTracker — Backend
 
+![Status](https://img.shields.io/badge/status-concept-lightgrey)
+
 A Java/Spring Boot backend application for managing investment activity and financial history.  
 It provides a clean REST API for recording transactions, tracking portfolio performance, and generating financial reports.
 
